@@ -20,8 +20,9 @@ The Bank Loan Approval Predictor is a machine learning project focused on creati
 - Removed unwanted columns such as zip code and person_id. 
 - Removed row items with negative value in year of experience, as it cannot be less than zero. 
 - Checked for missing data, outliers. 
-- Exploratory Data Analysis 
-- CorrelaƟon plot. 
+- Exploratory Data Analysis. 
+- Correlation plot.
+- PCA. 
 - We found that the data was unbalanced with 90% and 10% cases of No and Yes respectively. 
 - Analyzing the relationship between the descriptors and target variables using different plots. 
 - To resolve data imbalance, we performed SMOTE analysis.
