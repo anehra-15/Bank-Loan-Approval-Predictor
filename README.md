@@ -14,7 +14,7 @@ The Bank Loan Approval Predictor is a machine learning project focused on creati
 ## Analysis
 
 - Reading the CSV data from into python, parsing it using python control structures. 
-- Loading the data into normalized database. 
+- Loading the data into normalized database(SQLLite). 
 - Using joins to fetch data from all the tables and loading into pandas. 
 - Data Cleaning 
 - Removed unwanted columns such as zip code and person_id. 
