@@ -1,6 +1,6 @@
 # Loan Approval Predictor
 
-Securing a personal bank loan can be challenging and Ɵme consuming. ConvenƟonal methods heavily rely on the credit score of an individual, potenƟally cuƫng off the deserving ones. This results in limited financial access for borrowers. This project aims to predict bank loan approvals using machine learning techniques. It involves building a predictive model to determine whether a loan application should be approved or denied based on various applicant features.
+Securing a personal bank loan can be challenging and time consuming. Conventional methods heavily rely on the credit score of an individual, potentially cutting off the deserving ones. This results in limited financial access for borrowers. This project aims to predict bank loan approvals using machine learning techniques. It involves building a predictive model to determine whether a loan application should be approved or denied based on various applicant features.
 
 ## Table of Contents
 
