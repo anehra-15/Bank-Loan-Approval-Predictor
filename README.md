@@ -5,7 +5,7 @@ Securing a personal bank loan can be challenging and time consuming. Conventiona
 ## Table of Contents
 
 - [Overview](#overview)
-- [Features](#features)
+- [Analysis](#analysis)
 
 ## Overview
 
